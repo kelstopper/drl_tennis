@@ -50,9 +50,10 @@ Update Every and Update Times: Rather than in the continuous control project I c
 
 Results can be seen here: [Notebook](Tennis.ipynb)
 
-`Solved! Episode: 112, Solved after 12 episodes! Average score over last 100 episodes: 0.5xxxxxx`
+`Solved! Episode: 2059, Solved after 1959 episodes! Average score over last 100 episodes: 0.507600007597357`
 
 ![Running example](images/tennis.gif "Report")
+![Scores](images/scores.png "Scores")
 
 
 ## Future improvements or research areas
